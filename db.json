@@ -1,0 +1,19 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Caneta Bic Preta",
+        "price": 5.89
+    }, {
+        "id": 2,
+        "name": "Notebook Mac Pro",
+        "price": 11990.00
+    }, {
+        "id": 3,
+        "name": "Caderno capa dura",
+        "price": 9.90
+    }, {
+        "id": 4,
+        "name": "Celular Samsung",
+        "price": 1298.49
+    }]
+}
